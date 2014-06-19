@@ -10,5 +10,4 @@ website. Over time it changes so a new website is made. This is the first team w
 
 =====================
 
-Gryffingear Team 5012 - FIRST Robotics Competitive Team
-http://www.gryffingear.com/
+Gryffingear Team 5012 (http://www.gryffingear.com/) - FIRST Robotics Competitive Team
