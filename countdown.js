@@ -4,7 +4,7 @@ var current_year = now.getFullYear();
 var next_year = current_year + 1;
 
 // Set the date we&#39;re counting down to.
-var target_date = new Date("Jan 3, 2015 06:00").getTime();
+var target_date = new Date("Jul 14, 2014 08:00:00").getTime();
  
 // Variables for time units.
 var days, hours, minutes, seconds;
@@ -21,7 +21,7 @@ function update() {
     var current_date = new Date().getTime();
     var seconds_left = (target_date - current_date) / 1000;
 
-    document.getElementById("countdownname").innerHTML="FRC Kickoff";
+    document.getElementById("countdownname").innerHTML="Robo Workshop";
 
     // Do some time calculations.
     days = parseInt(seconds_left / 86400);
